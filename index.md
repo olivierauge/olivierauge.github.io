@@ -5,12 +5,13 @@ You can use the [editor on GitHub](https://github.com/olivierauge/olivierauge.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Projects
+
 ### Tramway Fleet Management System
 - Purpose
 - Benefits
 ### Nextcloud
 - Purpose
--Benefits
+- Benefits
 
 ### Markdown
 
